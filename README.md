@@ -1,5 +1,5 @@
-# tournament-management-tool
-tournament management tool
+# tournament-management
+tournament management
 
 Programmation en C : Projet
 
