@@ -1,29 +1,18 @@
 # tournament-management-tool
 tournament management tool
+
 Programmation en C : Projet
+
 Gestion de compétition d’échecs
 
 
 
-1 Conditions de travail, matériel à rendre, et évaluation
-Ce projet est à effectuer en binôme. L’équipe d’étudiant doit faire partie du
-même groupe de TD, mais pas forcément du même groupe de TP. Il sera à rendre
-le 11/12/2022 par courriel à votre chargé de TP, en mettant MM. GHAFFARI et
-ZUCKERMAN en copie, de la façon suivante :
-— Sujet du courriel : [IUT] Projet de programmation – Nom1, Nom2
-— joindre une archive Zip (ou 7z, RAR, . . .) de vos fichiers C (fichiers en .c et en .h) avec
-comme nom de fichier (si vous utilisez le format ZIP) projet_C_sources_Nom1_Nom2.zip
+— fichier PDF qui décrit brièvement les structures de données utilisées (tableaux, types structurés, etc.)
 
-— joindre un fichier PDF (projet_C_rapport_Nom1_Nom2) qui décrit brièvement les struc-
-tures de données utilisées (tableaux, types structurés, etc.), montre des copies d’écran de
-
-votre programme, etc.
-
-— Fournir un algorigramme pour d’écrire à haut niveau comment votre application se com-
+—  un algorigramme pour d’écrire à haut niveau comment votre application se com-
 porte.
 
-Une démonstration technique, suivie par des questions (10 minutes par binôme) sera orga-
-nisée lors d’une des séances de TP.
+
 
 2 Description
 On désire produire une application permettant de gérer des tournois de jeu d’échecs. Chaque
